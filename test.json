@@ -1,0 +1,22 @@
+{
+	"app_id":"system",
+	"app_secret":"12345",
+	"taskId": "1",
+	"data": [
+		{
+			"device": "123",
+			"userIds": [
+					"1",
+					"2"
+			]
+		},
+		{
+			"device": "321",
+			"userIds": [
+					"1",
+					"2"
+			]
+		}
+	],
+	"seq": "f428b43e-5bc1-4bea-a93a-ed177ca4552e"
+ }
